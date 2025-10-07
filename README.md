@@ -1,7 +1,7 @@
 # 🍌 Gemini AI Studio 自動化助手
 
 這是一個 Chrome 擴充工具，專門用於自動化執行 Google Gemini AI Studio 的任務，並批次下載生成的圖片。
-
+文章介紹：https://blog.aidec.tw/post/nano-banana-batch-tools-chrome-ext
 ## ✨ 功能特色
 
 ### 1. 自動化任務執行
